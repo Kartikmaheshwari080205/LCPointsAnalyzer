@@ -65,13 +65,7 @@ This extension is built with:
 ## 📞 Support
 
 For issues, feature requests, or questions:
-- GitHub Issues: [Your Repository URL]
-- Email: [Your Email]
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
+- GitHub Issues: [https://github.com/Kartikmaheshwari080205/LCPointsAnalyzer]
+- Email: [kartik080205@gmail.com]
 
 **Enhance your LeetCode journey with beautiful analytics! 🚀**
