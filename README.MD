@@ -1,4 +1,4 @@
-# 🏆 LeetCode Points Analytics Extension
+#  LeetCode Points Analytics Extension
 
 A beautiful Chrome extension that tracks, categorizes, and visualizes your LeetCode points with interactive charts and detailed analytics.
 
@@ -6,27 +6,27 @@ A beautiful Chrome extension that tracks, categorizes, and visualizes your LeetC
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## ✨ Features
+##  Features
 
-### 📊 **Smart Analytics**
+###  **Smart Analytics**
 - **Automatic Categorization**: Daily Challenges, Contests, Login Rewards, Monthly Challenges, Contributions, Surveys, and Others
 - **Beautiful Visualizations**: Interactive pie charts with modern gradient design
 - **Detailed Breakdown**: Points, percentages, and counts for each category
 - **Real-time Updates**: Fetches latest data from LeetCode API automatically
 
-### 🎨 **Modern Interface**
+###  **Modern Interface**
 - Clean, professional design with gradient themes
 - Responsive layout with smooth animations and hover effects
 - Easy-to-read tables with categorized data
 - Card-based statistics display with total points and entries
 
-### 🔒 **Privacy Focused**
+###  **Privacy Focused**
 - All data stored locally in your browser using Chrome Storage API
 - No external servers or data transmission
 - Complete control over your data with export functionality
 - No personal information collected beyond LeetCode points
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 ### **Method 1: Load Unpacked (Developer Mode)**
 1. Clone or download this repository
@@ -41,7 +41,7 @@ A beautiful Chrome extension that tracks, categorizes, and visualizes your LeetC
 2. Extract to a folder
 3. Follow steps 2-6 from Method 1
 
-## � Categories Explained
+##  Categories Explained
 
 | Category | Description |
 |----------|-------------|
@@ -53,7 +53,7 @@ A beautiful Chrome extension that tracks, categorizes, and visualizes your LeetC
 | **Survey** | Feedback surveys and questionnaires |
 | **Others** | Profile updates, streaks, referrals, and miscellaneous points |
 
-## 🛠️ Technical Details
+##  Technical Details
 
 ### **Built With:**
 - **Manifest V3** - Modern Chrome extension standards
@@ -78,7 +78,7 @@ A beautiful Chrome extension that tracks, categorizes, and visualizes your LeetC
 └── PRIVACY_POLICY.md  # Privacy policy
 ```
 
-## 🔧 Development
+##  Development
 
 ### **Setup:**
 ```bash
@@ -94,7 +94,7 @@ cd LCPointsAnalyzer
 - Background updates every 15 minutes
 - Export/import functionality for data portability
 
-## � Troubleshooting
+##  Troubleshooting
 
 **Extension not showing data?**
 - Make sure you're logged into LeetCode
@@ -106,7 +106,7 @@ cd LCPointsAnalyzer
 - Ensure you have an active LeetCode session
 - Check browser console for detailed error messages
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -114,7 +114,7 @@ cd LCPointsAnalyzer
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - LeetCode for providing the platform and data
 - Chrome Extensions team for excellent documentation
@@ -122,11 +122,9 @@ cd LCPointsAnalyzer
 
 ---
 
-## 📞 Support & Contact
+##  Support & Contact
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Kartikmaheshwari080205/LCPointsAnalyzer/issues)
 - **Developer**: Kartik Maheshwari
 
 ---
-
-⭐ **If you find this extension helpful, please give it a star!**
