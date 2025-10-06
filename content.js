@@ -161,37 +161,53 @@
     }
     return null;
   }
-  function categorize(desc) {
+  function categorize(desc, points) {
     if (!desc) return "Others";
     desc = desc.toLowerCase();
+    
+    if (points < 0) return "Spent/Penalty";
+    if (desc.includes("time travel ticket") || desc.includes("time travel") || desc.includes("travel ticket") || 
+        desc.includes("redeem") || desc.includes("redeemed") || desc.includes("redemption") ||
+        desc.includes("you have redeemed a time travel ticket")) return "Spent/Penalty";
+    if (desc.includes("spent") || desc.includes("penalty") || desc.includes("deducted") || desc.includes("used")) return "Spent/Penalty";
+    if (desc.includes("purchase") || desc.includes("bought") || desc.includes("cost") || desc.includes("pay")) return "Spent/Penalty";
+    
     if (desc.includes("completed a daily challenge")) return "Daily Challenge";
     if (desc.includes("daily") && (desc.includes("question") || desc.includes("problem")) && !desc.includes("completed") && !desc.includes("entire")) return "Daily Challenge";
     if (desc.includes("solve") || desc.includes("solved") || desc.includes("submission")) return "Daily Challenge";
+    
     if (desc.includes("daily check-in mission") || desc.includes("check-in") || desc.includes("checkin") || desc.includes("sign in") || desc.includes("login")) return "Login";
+    
     if (desc.includes("participated in") && desc.includes("contest")) return "Contest";
     if (desc.includes("participated in the contest:")) return "Contest";
     if (desc.includes("contest") && (desc.includes("participated") || desc.includes("rank"))) return "Contest";
     if (desc.includes("collected") && desc.includes("leetcoins from contest")) return "Contest";
+    
     if (desc.includes("completed 25 challenges for")) return "Monthly Challenge";
     if (desc.includes("completed the entire") && desc.includes("challenge")) return "Monthly Challenge";
     if (desc.includes("monthly") && desc.includes("challenge")) return "Monthly Challenge";
+    
     if (desc.includes("contribution") || desc.includes("contribute") || desc.includes("review") || desc.includes("edit")) return "Contribution";
     if (desc.includes("posted your first solution")) return "Contribution";
+    
     if (desc.includes("survey") || desc.includes("feedback") || desc.includes("questionnaire") || desc.includes("satisfaction survey")) return "Survey";
+    
     if (desc.includes("streak") && desc.includes("reward")) return "Others";
     if (desc.includes("profile field") || desc.includes("uploaded an avatar") || desc.includes("connected a social account")) return "Others";
-    if (desc.includes("confirmed your email") || desc.includes("explore card") || desc.includes("time travel ticket")) return "Others";
+    if (desc.includes("confirmed your email") || desc.includes("explore card")) return "Others";
     if (desc.includes("referral") || desc.includes("bonus")) return "Others";
+    
     return "Others";
   }
   function normalizeRows(rawRows) {
     return rawRows.map(r => {
       const desc = (r.desc || "").trim();
+      const pts = Number(r.pts || r.points || 0);
       return {
         date: (r.date || "").trim(),
         desc,
-        pts: Number(r.pts || r.points || 0),
-        category: categorize(desc)
+        pts: pts,
+        category: categorize(desc, pts)
       };
     });
   }
@@ -212,7 +228,7 @@
           date: date,
           desc: description,
           pts: pts,
-          category: categorize(description)
+          category: categorize(description, pts)
         };
       });
       dataSource = "api";

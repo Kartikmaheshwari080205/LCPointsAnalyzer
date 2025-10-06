@@ -1,0 +1,5164 @@
+{
+  "scores": [
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-01-10T18:27:21.911733Z"
+    },
+    {
+      "score": 10,
+      "description": "Confirmed your email address",
+      "date": "2024-01-10T18:37:09.482534Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-01-30T12:08:52.474679Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-10T07:29:02.093316Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-11T08:42:15.406025Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-12T16:48:21.544941Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-14T07:35:25.884135Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-15T06:07:48.116865Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-17T13:23:34.712091Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-22T05:49:44.840271Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-23T05:23:23.002379Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-24T06:16:32.348385Z"
+    },
+    {
+      "score": 50,
+      "description": "Posted your first solution in Discuss",
+      "date": "2024-02-24T06:40:18.694854Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-25T05:06:43.092641Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-26T16:26:49.476900Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-27T06:00:57.035689Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-02-28T20:11:42.884127Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-03-01T17:50:57.576045Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-03-03T14:53:53.917966Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-03-04T18:41:46.164827Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-04-02T05:50:22.651054Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-08T17:46:23.339275Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-13T12:53:47.565508Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-15T15:57:33.425853Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-23T12:06:09.785114Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-24T11:29:41.635596Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-25T03:09:52.348754Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-29T10:46:31.630757Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-05-31T08:46:08.638447Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-06-03T14:31:42.453166Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-06-21T05:26:29.866889Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Name",
+      "date": "2024-06-21T05:27:49.388908Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Gender",
+      "date": "2024-06-21T05:27:54.979357Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Location",
+      "date": "2024-06-21T05:28:35.395321Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Birthday",
+      "date": "2024-06-21T05:28:55.485313Z"
+    },
+    {
+      "score": 5,
+      "description": "Completed a profile field: Education",
+      "date": "2024-06-21T05:30:46.802032Z"
+    },
+    {
+      "score": 10,
+      "description": "Connected a social account: Linkedin_oauth2",
+      "date": "2024-06-21T05:31:29.293768Z"
+    },
+    {
+      "score": 5,
+      "description": "Uploaded an avatar",
+      "date": "2024-06-21T05:31:44.619917Z"
+    },
+    {
+      "score": 10,
+      "description": "Connected a social account: Google",
+      "date": "2024-06-21T05:31:44.669132Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-06-24T06:48:20.884596Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-06-26T12:19:13.212386Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-06-27T08:34:41.534641Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-06-29T11:01:53.350376Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-04T12:25:00.806870Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed an explore card: The LeetCode Beginner's Guide",
+      "date": "2024-07-04T14:25:58.236003Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-07T04:32:16.880318Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-08T08:35:49.931269Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-09T08:33:39.091940Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-11T04:39:16.679162Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-12T12:52:52.874211Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-13T13:04:16.190969Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-14T13:06:19.789901Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-16T06:46:44.755191Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-25T12:40:10.297192Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-26T05:40:54.098470Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-07-29T11:22:54.545313Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-03T13:16:16.079115Z"
+    },
+    {
+      "score": 200,
+      "description": "Participated in a contest for the first time (Biweekly Contest 136)",
+      "date": "2024-08-03T14:47:04.566024Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-04T13:45:15.756840Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-05T13:45:23.555681Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-06T11:47:38.325267Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-06T12:10:40.787564Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-07T07:32:06.191276Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-07T07:58:29.689149Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-08T03:40:31.611650Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-08T03:58:21.164853Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-09T02:39:00.862577Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-09T02:55:13.588749Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: LinkedIn",
+      "date": "2024-08-09T06:49:08.072435Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Summary",
+      "date": "2024-08-09T06:50:26.514673Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Github",
+      "date": "2024-08-09T14:11:58.288370Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-10T04:37:35.711744Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-10T04:56:40.635603Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Websites",
+      "date": "2024-08-10T07:15:14.829026Z"
+    },
+    {
+      "score": 10,
+      "description": "Connected a social account: Github",
+      "date": "2024-08-10T08:23:12.151135Z"
+    },
+    {
+      "score": 10,
+      "description": "Connected a social account: Facebook",
+      "date": "2024-08-10T08:23:47.445731Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-11T03:26:38.231437Z"
+    },
+    {
+      "score": 5,
+      "description": "Participated in the contest: Weekly Contest 410",
+      "date": "2024-08-11T03:33:06.903601Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-11T08:23:48.017325Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-08-11T13:22:12.278525Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-12T07:16:03.712156Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-12T07:21:07.230380Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-13T03:30:08.019705Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-13T03:30:34.488478Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-14T07:57:35.003400Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-14T08:06:07.664226Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-15T12:51:59.381697Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-15T12:52:07.403367Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-16T12:35:51.667861Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-16T12:44:39.177879Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-17T04:18:04.251356Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-17T04:26:13.763112Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-18T02:28:24.815093Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-18T02:34:29.992320Z"
+    },
+    {
+      "score": 5,
+      "description": "Participated in the contest: Weekly Contest 411",
+      "date": "2024-08-18T02:44:33.474120Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-19T03:48:42.886837Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-19T03:52:26.635464Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-20T05:54:41.073328Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-20T06:00:44.463854Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-21T04:39:08.120311Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-21T05:23:12.598179Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-22T03:24:28.764115Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-22T03:31:03.867772Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-08-22T13:19:04.826222Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-23T03:39:34.996815Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-23T06:36:53.683333Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-24T02:22:34.987322Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-24T05:02:51.610627Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-25T02:22:27.843898Z"
+    },
+    {
+      "score": 5,
+      "description": "Participated in the contest: Weekly Contest 412",
+      "date": "2024-08-25T02:35:11.265725Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-25T03:19:06.598066Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-26T03:08:00.756077Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-26T03:28:38.170854Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-27T03:07:19.868898Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-27T04:03:45.907728Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-28T02:27:00.722587Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-28T02:35:52.787564Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-29T03:09:25.329777Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-29T03:19:01.095348Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-08-29T10:03:13.082531Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-30T02:42:02.276672Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-30T10:31:39.289477Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the August LeetCoding Challenge 2024",
+      "date": "2024-08-30T10:31:39.303243Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-08-31T05:18:39.723249Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2024",
+      "date": "2024-08-31T05:18:49.518927Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed New Study Plan User Satisfaction Survey",
+      "date": "2024-08-31T11:43:59.542126Z"
+    },
+    {
+      "score": 5,
+      "description": "Participated in the contest: Biweekly Contest 138",
+      "date": "2024-08-31T14:46:06.423412Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-01T02:13:59.196741Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2024-09-01T02:13:59.197479Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-01T02:19:00.817586Z"
+    },
+    {
+      "score": 5,
+      "description": "Participated in the contest: Weekly Contest 413",
+      "date": "2024-09-01T02:34:35.439836Z"
+    },
+    {
+      "score": 35,
+      "description": "Participated in both contests for the week: Biweekly Contest 138, Weekly Contest 413",
+      "date": "2024-09-01T02:34:35.440768Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-02T07:27:20.518970Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-02T07:41:00.217080Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-03T04:39:05.820425Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-03T06:09:36.693268Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-04T06:08:38.490475Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-04T06:19:57.855643Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-05T03:13:23.550789Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-05T03:21:46.712291Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-06T04:32:31.151805Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-06T04:49:15.969542Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-09-06T04:49:48.601951Z"
+    },
+    {
+      "score": 2,
+      "description": "Completed a profile field: Twitter",
+      "date": "2024-09-06T14:29:45.181205Z"
+    },
+    {
+      "score": 5,
+      "description": "Completed a profile field: Work",
+      "date": "2024-09-06T14:31:56.226830Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-07T02:41:13.296383Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-07T02:46:06.841839Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-08T02:36:06.620119Z"
+    },
+    {
+      "score": 5,
+      "description": "Participated in the contest: Weekly Contest 414",
+      "date": "2024-09-08T02:46:21.806689Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-08T03:22:40.763362Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-09T06:17:46.519239Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-09T06:27:02.212821Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-10T07:18:42.222595Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-10T07:35:00.252495Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-11T02:37:28.952122Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-11T02:38:01.672643Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-12T10:46:05.773290Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-12T10:49:09.189651Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-13T02:19:46.892437Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-13T02:23:47.871588Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-14T06:52:31.963501Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-14T07:00:25.273323Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-15T09:21:39.321246Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-09-15T09:21:49.425738Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-15T09:30:12.490528Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-16T06:10:25.025946Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-16T06:17:56.164484Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-17T03:57:04.980472Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-17T04:03:31.022584Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-18T03:07:55.503615Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-18T03:08:03.027643Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-19T03:29:33.182827Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-19T03:34:50.627318Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-09-19T03:35:12.241065Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-20T07:06:29.546569Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-20T07:12:10.915559Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-21T03:13:09.839068Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-21T03:18:01.139528Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-22T06:00:45.882978Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-22T06:12:42.871583Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-23T02:54:40.310277Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-23T03:00:35.248161Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-09-23T05:26:01.938412Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-24T05:36:02.485112Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-24T07:20:04.377769Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-25T06:25:56.454394Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-25T06:33:35.289744Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the September LeetCoding Challenge 2024",
+      "date": "2024-09-25T06:33:35.305062Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-26T04:33:12.831526Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-26T04:35:48.794787Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-27T03:28:04.761763Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-27T03:32:39.954331Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-28T05:04:42.474830Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-28T05:16:33.253013Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-29T02:52:22.064209Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-29T05:40:00.089025Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-09-30T02:48:04.698940Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2024",
+      "date": "2024-09-30T02:52:52.074061Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire September LeetCoding Challenge 2024",
+      "date": "2024-09-30T02:52:52.089041Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-01T06:29:55.415085Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2024-10-01T06:29:55.416088Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-01T06:37:26.011562Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-02T05:05:59.680220Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-02T05:11:50.782263Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-03T03:36:28.092291Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-03T03:43:11.827525Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-04T02:39:44.837313Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-04T02:44:36.580152Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-05T01:49:06.123078Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-05T01:54:10.710620Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-06T02:29:57.035606Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-06T02:38:09.933433Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-07T06:07:24.077433Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-07T06:24:45.823407Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-10-07T06:26:17.694541Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-08T06:56:23.831392Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-08T06:59:14.172863Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-09T05:19:58.169765Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-09T05:23:18.931695Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-10T04:00:28.961456Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-10T04:07:24.350770Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-11T02:37:40.345665Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-11T02:50:01.729699Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-12T02:53:48.949149Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-12T03:02:09.993497Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-13T02:48:52.330258Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-13T02:59:25.352645Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-14T02:10:23.829241Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-10-14T02:10:25.190447Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-14T02:15:56.349105Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-15T02:23:19.433544Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-15T02:31:01.480408Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-16T03:48:50.691841Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-16T04:41:12.437836Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-17T05:16:04.192958Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-17T05:19:37.348085Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-18T02:18:52.777456Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-18T02:26:17.678167Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-19T03:06:38.087280Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-19T03:10:34.925424Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-20T08:51:08.828596Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-20T09:01:05.593318Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-21T04:40:26.505940Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-21T04:45:12.117340Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-22T05:39:24.240608Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-22T05:45:14.634105Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-23T03:20:01.818687Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-23T03:20:31.264399Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-24T04:25:27.845503Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-24T04:30:15.364585Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-25T07:24:42.913612Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-25T07:29:25.255214Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the October LeetCoding Challenge 2024",
+      "date": "2024-10-25T07:29:25.272263Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-10-25T07:41:54.015665Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-26T03:57:18.479498Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-26T07:01:32.654544Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-27T05:36:26.292412Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-27T05:40:33.163344Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-28T05:04:40.216109Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-28T05:16:41.893234Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-29T03:24:25.015520Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-29T03:48:03.640938Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-30T02:47:15.724901Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-30T02:53:20.090950Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-10-31T11:24:34.437966Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2024-10-31T11:24:34.438930Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2024",
+      "date": "2024-10-31T11:55:01.847413Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire October LeetCoding Challenge 2024",
+      "date": "2024-10-31T11:55:01.863177Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-01T02:32:24.534083Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-01T02:45:10.244285Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-02T01:29:53.373659Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-02T03:13:38.332057Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-03T03:10:04.690687Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-03T03:10:15.645908Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-04T01:55:26.048410Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-04T02:02:27.945734Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-05T03:30:27.223015Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-05T03:57:48.516704Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-11-05T04:01:51.564135Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-06T06:54:00.531273Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-06T07:11:46.117629Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-07T03:48:48.087084Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-07T03:58:41.417477Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-08T03:39:07.266483Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-08T06:09:32.637512Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-09T04:23:11.054474Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-09T04:28:18.980652Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-10T05:44:53.739697Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-10T06:14:44.655460Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-11T03:39:40.140870Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-11T04:01:15.802222Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-12T03:37:12.537352Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-12T04:12:42.663151Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-13T02:47:03.864455Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-13T02:58:30.724103Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-14T03:18:47.607253Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-11-14T03:18:47.964485Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-14T03:25:33.251555Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-15T03:24:56.504586Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-15T03:31:04.295799Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-16T05:17:21.901264Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-16T05:22:23.487306Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-17T03:16:26.587656Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-17T03:49:50.925288Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-18T03:09:16.551692Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-18T03:32:23.528948Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-19T04:42:05.553657Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-11-19T04:42:05.955056Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-19T04:42:17.097341Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-20T06:15:43.294396Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-20T08:08:21.649839Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-21T02:52:42.929342Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-21T03:06:25.972615Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-22T05:30:54.908572Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-22T05:35:01.531284Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-23T15:21:50.916048Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-23T15:31:27.393940Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-24T08:23:39.521967Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-24T08:30:31.845893Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-25T06:41:10.758771Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-11-25T06:41:11.080993Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-25T06:48:51.158716Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the November LeetCoding Challenge 2024",
+      "date": "2024-11-25T06:48:51.179635Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-26T04:12:41.649993Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-26T04:25:12.593778Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-27T06:41:22.039216Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-27T07:59:32.889096Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-28T03:39:25.271131Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-28T03:47:17.488459Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-29T03:57:53.566572Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-29T04:18:34.083375Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-11-30T03:22:30.536055Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2024-11-30T03:22:30.537171Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for November LeetCoding Challenge 2024",
+      "date": "2024-11-30T03:32:38.934362Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire November LeetCoding Challenge 2024",
+      "date": "2024-11-30T03:32:38.954687Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-01T02:46:14.605078Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-01T03:17:35.241714Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-02T02:52:03.262984Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-02T03:21:01.800984Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-03T06:33:46.459098Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-03T06:40:13.623013Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-12-03T06:40:59.626689Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-04T02:54:33.314072Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-04T02:57:10.353131Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-05T02:53:37.409698Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-05T03:04:08.544995Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-06T07:38:10.510123Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-06T07:43:15.012202Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-07T03:19:06.830528Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-07T03:25:50.775257Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-08T05:48:11.101029Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-08T07:48:08.028378Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-09T03:41:54.290095Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-09T03:53:05.975845Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-12-09T03:53:44.403935Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-10T02:50:46.130095Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-10T03:21:15.237697Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-11T10:57:49.419772Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-11T11:13:52.402515Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-12T03:12:21.125312Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-12T03:17:41.534908Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-13T06:01:37.825743Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-13T06:14:36.427873Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-14T04:34:55.107487Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-14T04:42:40.114764Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-15T03:41:59.361717Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-15T03:54:12.025856Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-16T03:21:18.016998Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-16T03:26:32.751039Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-17T15:06:54.427030Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-12-17T15:07:31.408390Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-17T17:00:28.601136Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-18T14:50:12.595702Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-18T14:59:35.955408Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-19T06:24:53.968971Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-19T06:27:56.727056Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-20T03:55:11.591046Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-20T03:59:48.406323Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-21T05:14:20.164238Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-21T05:26:33.594078Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-22T03:16:48.419019Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-22T04:03:19.286857Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-23T02:37:20.967515Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-23T02:46:07.131680Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-24T02:56:54.456240Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-24T03:35:28.563082Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2024-12-24T03:35:50.834591Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-25T02:53:16.219781Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-25T02:56:28.820171Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the December LeetCoding Challenge 2024",
+      "date": "2024-12-25T02:56:28.838880Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-26T02:44:06.814454Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-26T02:49:59.343726Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-27T03:02:43.956914Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-27T03:08:21.304055Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-28T17:45:23.438789Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-28T17:57:24.110606Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-29T03:25:42.274070Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-29T03:40:46.276088Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-30T15:07:31.644486Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2024-12-30T15:07:31.645641Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-30T15:08:08.955379Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2024-12-31T03:52:56.696374Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for December LeetCoding Challenge 2024",
+      "date": "2024-12-31T03:54:06.028460Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire December LeetCoding Challenge 2024",
+      "date": "2024-12-31T03:54:06.051632Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-01T04:54:29.022891Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-01T05:01:00.758240Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-02T03:21:40.933558Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-01-02T03:21:42.877491Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-02T03:31:28.299817Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-03T04:55:12.169821Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-03T04:59:46.233981Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-04T08:11:25.825012Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-04T08:20:46.394543Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-05T05:13:57.677628Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-05T05:35:02.464987Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-06T02:15:12.978567Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-01-06T02:15:13.872791Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-06T02:22:04.039836Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-07T02:48:52.450986Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-07T07:12:40.520366Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-08T02:13:40.401730Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-08T02:21:28.352153Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-09T02:48:35.955684Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-09T02:49:53.737870Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-10T02:02:11.414990Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-10T05:39:02.191536Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-11T05:28:31.980460Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-11T05:49:14.889011Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-12T06:37:28.862309Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-12T06:43:07.837783Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-13T05:35:49.257586Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-13T05:47:21.575274Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-14T07:36:00.337519Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-14T07:47:52.769645Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-15T07:51:58.816279Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-15T08:08:07.282892Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-01-15T08:15:27.375824Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-16T04:24:01.069552Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-16T04:31:05.192842Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-17T01:30:17.303049Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-17T01:35:05.148587Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-18T06:36:43.044933Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-18T06:45:28.392206Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-19T06:26:43.043489Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-19T06:43:12.452580Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-20T03:15:48.184102Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-20T03:27:20.166503Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-21T03:33:40.689401Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-21T03:50:03.973352Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-01-21T03:50:13.572458Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-22T06:01:11.252905Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-22T06:10:16.978951Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-23T03:48:33.307569Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-23T03:49:01.681465Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-24T05:54:04.278126Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-24T06:02:37.324727Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-25T03:30:07.776474Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-25T04:15:51.420821Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the January LeetCoding Challenge 2025",
+      "date": "2025-01-25T04:15:51.435956Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-26T03:40:17.716370Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-26T04:11:56.443584Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-27T05:35:39.019009Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-27T06:03:46.943839Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-28T02:45:18.663730Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-28T02:56:43.004780Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-29T05:44:03.413353Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-01-29T05:44:03.414644Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-29T05:44:21.930504Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-30T05:06:50.314026Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-01-30T05:07:47.001058Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-30T13:00:56.197960Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-01-31T05:40:55.884056Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for January LeetCoding Challenge 2025",
+      "date": "2025-01-31T05:56:08.610726Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire January LeetCoding Challenge 2025",
+      "date": "2025-01-31T05:56:08.631716Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-01T04:07:17.441658Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-01T04:11:13.303537Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-02T03:01:46.269699Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-02T03:04:43.816941Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-03T02:19:19.764283Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-03T02:26:02.670189Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-02-03T02:27:54.318557Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-04T03:46:58.078396Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-04T03:54:04.979141Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-05T11:08:02.841006Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-05T11:13:34.374135Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-06T03:30:11.461791Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-06T03:36:59.802872Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-07T05:40:37.659693Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-07T05:50:20.088140Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-08T02:53:03.918758Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-08T03:26:47.819075Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-09T09:00:48.676243Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-09T09:07:04.619893Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-10T04:33:23.317924Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-10T04:35:46.046356Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-02-10T04:35:55.238011Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-11T05:20:09.206298Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-11T05:39:06.937613Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-12T01:46:50.353470Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-12T01:52:52.923854Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-13T03:26:39.803173Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-13T03:32:08.686180Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-14T05:49:46.383760Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-14T05:54:35.178434Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-15T12:15:11.547205Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-15T12:22:34.957441Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-16T05:55:18.049373Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-16T06:06:29.317049Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-17T04:31:59.645543Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-17T04:32:21.853622Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-02-17T04:32:38.793076Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-18T05:28:10.038153Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-18T06:27:25.004861Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-19T01:41:44.503541Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-19T01:42:04.750579Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-20T05:03:14.710475Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-20T05:10:49.829010Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-21T05:34:00.319008Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-21T05:39:05.436653Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-22T03:58:59.485903Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-22T04:10:53.351083Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-23T05:42:11.339205Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-23T06:33:35.696607Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-24T02:25:22.939441Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-24T02:43:31.293456Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-25T03:34:56.393146Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-25T03:40:41.049701Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the February LeetCoding Challenge 2025",
+      "date": "2025-02-25T03:40:41.073156Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-02-25T03:41:28.910484Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-26T04:53:30.303476Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-26T04:57:10.659697Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-27T05:08:31.345310Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-27T05:13:33.922802Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-02-28T03:43:58.280877Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-02-28T03:43:58.281858Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for February LeetCoding Challenge 2025",
+      "date": "2025-02-28T03:44:16.470485Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire February LeetCoding Challenge 2025",
+      "date": "2025-02-28T03:44:16.491642Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-01T05:06:25.193651Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-01T07:09:15.903452Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-02T06:48:59.467918Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-02T06:54:24.297759Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-03T03:51:33.580010Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-03T04:17:46.042662Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-03-03T18:48:07.099235Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-04T05:45:14.178436Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-04T05:48:00.561740Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-05T05:22:35.727932Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-05T05:24:52.162047Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-06T05:31:00.535295Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-06T05:33:52.520553Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-07T03:09:55.176518Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-07T03:16:56.950191Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-08T01:28:47.745084Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-08T01:32:50.129369Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-09T04:31:20.742552Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-09T05:24:22.032578Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-10T05:32:58.563129Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-03-10T05:33:13.527857Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-10T06:05:55.222738Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-11T07:55:30.822116Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-11T07:55:45.011065Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-12T05:54:30.075686Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-12T05:56:31.388577Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-13T03:46:55.345681Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-13T03:57:50.037741Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-14T04:13:05.034121Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-14T04:19:31.368480Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-15T05:12:58.685024Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-15T05:17:57.885554Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-16T06:53:43.423209Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-16T07:01:39.421271Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-17T06:04:50.940009Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-17T06:10:20.169845Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-03-17T06:12:20.513324Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-18T04:40:24.807374Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-18T04:44:13.757051Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-19T05:16:56.563680Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-19T05:21:11.874545Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-20T03:22:41.321166Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-20T04:35:11.892347Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-21T03:56:44.154951Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-21T04:11:44.292773Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-22T18:26:33.520355Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-22T18:38:04.501378Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-23T04:12:55.398759Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-23T04:13:19.491441Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-24T04:33:34.948577Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-24T04:46:31.729300Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-03-24T04:46:42.843400Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-25T03:47:22.793200Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-25T05:20:50.969378Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the March LeetCoding Challenge 2025",
+      "date": "2025-03-25T05:20:50.987197Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-26T04:08:48.423219Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-26T04:13:11.047963Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-27T03:35:23.732229Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-27T03:40:18.483671Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-28T03:26:44.444333Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-28T03:36:50.758096Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-29T03:09:23.770474Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-29T03:39:38.056761Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-30T03:35:08.980557Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-03-30T03:35:08.981496Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-30T03:37:42.245697Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-03-31T02:58:58.206378Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for March LeetCoding Challenge 2025",
+      "date": "2025-03-31T03:02:59.558968Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire March LeetCoding Challenge 2025",
+      "date": "2025-03-31T03:02:59.575640Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-03-31T03:03:12.216934Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-01T03:18:44.205026Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-01T03:20:07.160797Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-02T02:42:51.387629Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-02T03:05:55.797652Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-03T03:23:53.263762Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-03T03:31:03.571524Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-04T03:24:50.677012Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-04T03:30:27.857525Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-05T04:13:27.697430Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-05T04:17:12.394292Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-06T04:14:25.741508Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-06T04:14:41.634836Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-07T04:15:43.242474Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-07T04:16:46.424580Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-04-07T04:16:55.399547Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-08T02:42:52.512972Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-08T02:46:21.618684Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-09T02:57:39.188304Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-09T04:44:52.741049Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-10T03:35:18.945243Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-10T03:53:12.763565Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-11T03:47:23.474636Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-11T03:51:11.292665Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-12T02:27:16.806109Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-12T02:36:28.512130Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-13T05:03:50.637169Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-13T05:05:35.882103Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-14T03:55:52.910563Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-14T04:02:36.572094Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-04-14T04:03:12.612268Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-15T07:52:35.176155Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-15T08:00:11.540108Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-16T04:59:36.925261Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-16T05:03:50.239551Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-17T02:57:09.085538Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-17T03:23:31.588278Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-18T04:42:47.793469Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-18T04:42:57.888533Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-19T03:59:34.525112Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-19T04:01:03.766432Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-20T03:32:14.680206Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-20T04:36:43.743304Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-21T04:33:10.456630Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-04-21T04:33:30.848599Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-21T04:40:30.334561Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-22T03:20:20.653950Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-22T03:33:13.947464Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed Problems Satisfaction Survey",
+      "date": "2025-04-22T19:26:40.373274Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-23T04:01:40.897780Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-23T04:06:41.899404Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-24T04:15:57.157963Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-24T04:25:31.821623Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-25T02:53:52.125446Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-25T02:58:52.055944Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the April LeetCoding Challenge 2025",
+      "date": "2025-04-25T02:58:52.070945Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-26T03:04:20.690043Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-26T03:09:09.546183Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-27T03:27:57.716991Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-27T03:29:51.002131Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-28T03:12:13.283111Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-28T03:15:11.186569Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-04-28T03:15:28.799362Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-29T03:12:41.158411Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-04-29T03:12:41.159554Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-29T03:17:01.462689Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-04-30T03:22:18.677364Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for April LeetCoding Challenge 2025",
+      "date": "2025-04-30T03:24:57.553500Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire April LeetCoding Challenge 2025",
+      "date": "2025-04-30T03:24:57.569425Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-01T04:04:11.733487Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-01T04:13:06.085130Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-02T03:34:48.214808Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-02T03:41:35.207618Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-03T03:17:12.317734Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-03T03:24:22.234711Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-04T03:19:34.056049Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-04T03:28:24.667638Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-05T02:30:56.731414Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-05T02:31:11.077643Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-05-05T02:31:27.456056Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-06T03:42:05.862677Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-06T03:44:39.642438Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-07T03:48:18.789670Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-07T03:57:42.897000Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-08T03:13:35.286004Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-08T03:44:39.786452Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-09T03:32:02.220333Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-09T04:11:44.195622Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-10T04:48:26.874315Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-10T05:08:22.017326Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-11T03:35:23.784329Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-11T03:36:53.670748Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-12T04:26:33.907758Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-12T04:34:36.746905Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-05-12T04:35:19.252186Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-13T02:06:11.804694Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-13T02:14:23.648701Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-14T03:09:22.435594Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-14T03:17:49.520002Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-15T03:49:11.667357Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-15T03:54:15.131710Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-16T05:54:15.575854Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-16T06:11:57.756755Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-17T06:39:28.174033Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-17T06:43:09.633007Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-18T04:16:43.750146Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-18T04:30:35.342463Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-19T02:26:04.905252Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-19T02:30:59.258269Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-05-19T02:31:21.477286Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-20T03:00:40.824812Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-20T03:06:44.867016Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-21T03:43:54.329534Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-21T03:48:05.368159Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-22T02:22:36.536480Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-22T02:40:34.825722Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-23T02:01:44.813643Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-23T02:12:17.247267Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-24T03:10:44.310796Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-24T03:12:40.592553Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-25T03:22:00.421098Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-25T03:32:45.330254Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the May LeetCoding Challenge 2025",
+      "date": "2025-05-25T03:32:45.358318Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-26T02:28:12.985284Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-26T02:35:24.699302Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-05-26T02:35:54.912101Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-27T02:18:22.085824Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-27T02:20:48.877323Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-28T02:06:42.744539Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-28T02:28:15.025578Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-29T03:49:06.831542Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-05-29T03:49:06.832587Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-29T04:01:09.406927Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-30T03:03:51.140388Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-30T03:17:55.157892Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-05-31T05:05:41.838569Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for May LeetCoding Challenge 2025",
+      "date": "2025-05-31T05:09:03.107171Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire May LeetCoding Challenge 2025",
+      "date": "2025-05-31T05:09:03.140815Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-01T04:01:06.083843Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-01T04:22:15.762863Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-02T06:34:49.774914Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-02T06:38:00.917017Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-06-02T06:40:16.652595Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-04T02:45:26.582452Z"
+    },
+    {
+      "score": -70,
+      "description": "You have redeemed a Time Travel Ticket",
+      "date": "2025-06-04T03:08:06.152235Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-04T03:14:03.103648Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-04T03:47:46.209969Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-05T01:21:13.983882Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-05T01:35:00.544157Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-06T06:36:12.967597Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-06T06:55:57.700640Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-07T02:50:04.736020Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-07T03:02:27.364662Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-08T05:08:27.235062Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-08T05:11:29.732046Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-09T03:27:25.508426Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-09T03:29:40.157611Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-10T03:17:13.773098Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-10T03:23:11.993889Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-06-10T03:23:54.373118Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-11T03:58:50.037924Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-11T11:47:47.661503Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-12T03:39:37.098772Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-12T03:41:43.193074Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-13T04:26:44.215841Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-13T04:34:48.829030Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-14T07:39:35.953719Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-14T07:47:24.202369Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-15T04:57:38.953794Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-15T05:18:58.254675Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-16T03:32:30.263669Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-16T03:35:17.255898Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-06-16T03:35:28.648677Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-17T03:56:11.064046Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-17T04:05:05.838914Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-18T04:30:35.854302Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-18T04:32:07.361679Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-19T04:05:37.877354Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-19T04:08:03.603332Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-20T03:49:08.717089Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-20T04:04:11.120874Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-21T07:05:51.209178Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-21T07:11:44.023582Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-22T05:07:55.714482Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-22T05:14:47.544634Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-23T03:46:29.518686Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-23T03:56:16.633771Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-06-23T03:57:14.526711Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-24T03:45:39.121321Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-24T03:55:55.214577Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-25T03:49:19.794030Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-25T04:07:02.824387Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-26T03:50:51.371084Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-26T04:02:57.818810Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the June LeetCoding Challenge 2025",
+      "date": "2025-06-26T04:02:57.860803Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-27T04:32:47.446670Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-27T04:44:58.792145Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-28T11:14:25.456546Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-28T11:19:25.765558Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-29T04:42:18.527885Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-29T04:48:25.187378Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-06-30T04:44:04.335998Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for June LeetCoding Challenge 2025",
+      "date": "2025-06-30T04:45:30.163213Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-06-30T04:46:34.602893Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-01T04:14:13.316836Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-01T04:19:44.594035Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-02T04:25:11.685647Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-03T03:20:28.655614Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-07-03T03:20:28.657200Z"
+    },
+    {
+      "score": -70,
+      "description": "You have redeemed a Time Travel Ticket",
+      "date": "2025-07-03T03:20:51.796132Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-03T03:24:42.777437Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-03T03:30:25.501993Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-04T04:50:54.782549Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-04T04:58:54.452499Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-05T05:08:43.277277Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-05T05:10:25.207363Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-06T04:33:13.744455Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-06T04:41:01.529631Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-07T03:29:29.287650Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-07T03:35:22.228500Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-07-07T03:36:59.706877Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-08T03:10:47.660336Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-08T03:18:39.319485Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-09T03:37:03.627355Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-09T03:41:15.919747Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-10T03:08:40.855106Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-10T03:27:18.982298Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-11T04:38:06.450429Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-11T04:49:40.478612Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-12T05:01:56.649885Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-12T06:23:11.004231Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-13T04:53:03.621132Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-13T04:56:46.806270Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-14T03:28:24.383753Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-14T03:29:38.010240Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-07-14T03:30:20.065138Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-15T03:41:36.195211Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-15T03:48:36.378831Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-16T03:25:29.601218Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-16T03:28:38.770897Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-17T03:45:50.844171Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-17T03:48:23.464459Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-18T03:37:44.522284Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-18T03:46:55.662834Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-19T05:25:39.319441Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-19T05:27:07.776070Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-20T05:23:44.135358Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-20T05:37:01.539746Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-21T03:37:23.167766Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-21T03:38:18.628110Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-22T03:37:53.657944Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-22T03:42:17.765340Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-07-22T03:43:13.280263Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-23T03:31:22.094170Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-23T03:39:02.352757Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-24T03:10:26.951912Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-24T03:36:48.023781Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-25T06:13:43.596620Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-25T06:18:35.608185Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-26T05:55:51.407363Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-26T06:16:15.485086Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the July LeetCoding Challenge 2025",
+      "date": "2025-07-26T06:16:15.530772Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-27T05:16:25.495030Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-27T05:25:54.903405Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-28T02:34:44.668673Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-28T02:41:13.106554Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-07-28T02:41:47.653237Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-29T04:37:47.561950Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-29T04:41:22.632850Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-30T05:21:58.945143Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-30T05:23:36.279286Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-07-31T03:53:23.467951Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for July LeetCoding Challenge 2025",
+      "date": "2025-07-31T03:58:34.501652Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-01T04:19:46.550351Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-01T04:26:33.377643Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-02T02:28:16.425184Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-08-02T02:28:16.426639Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-02T02:42:36.613721Z"
+    },
+    {
+      "score": 5,
+      "description": "Participated in the contest: Biweekly Contest 162",
+      "date": "2025-08-02T14:43:55.244492Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-03T02:06:25.540411Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-03T02:12:17.409522Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-04T02:38:16.862891Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-04T02:46:11.119877Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-08-04T02:47:32.536328Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-05T01:36:43.846193Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-05T01:41:36.807342Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-06T01:24:27.357738Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-06T01:40:56.727920Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-07T02:30:52.196611Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-07T02:48:24.050811Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-08T01:39:26.316619Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-08T01:49:52.901926Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-09T02:34:21.508116Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-09T02:37:29.643445Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-10T04:50:29.802558Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-10T04:54:44.641542Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-11T01:41:49.959302Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-11T01:51:28.216386Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-08-11T01:51:39.186258Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-12T03:04:02.144418Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-12T03:10:18.387627Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-13T03:05:35.654368Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-13T03:08:40.664905Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-14T03:45:41.028791Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-14T03:57:26.699476Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-15T04:05:21.684203Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-15T04:31:23.546474Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-16T04:04:29.312277Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-16T04:35:21.857066Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-17T03:07:58.866650Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-17T04:16:10.980760Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-18T01:46:16.227917Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-18T12:40:15.174718Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-08-18T12:40:23.840837Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-19T02:27:30.084959Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-19T02:30:47.535900Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-20T02:34:27.633382Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-20T02:36:37.472131Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-21T02:44:24.773807Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-21T02:53:26.190184Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-22T02:32:08.827557Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-22T02:37:26.165234Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed an explore card: Machine Learning 101",
+      "date": "2025-08-22T15:11:01.890440Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-23T03:04:42.285278Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-23T04:02:13.967166Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-24T03:18:33.405063Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-24T03:19:36.320594Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-25T02:53:08.661031Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-25T02:55:15.508104Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the August LeetCoding Challenge 2025",
+      "date": "2025-08-25T02:55:15.539041Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-08-25T02:55:24.627463Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-26T02:41:28.815562Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-26T02:47:51.910995Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-27T03:56:06.638718Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-27T04:22:56.182831Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-28T03:49:49.465810Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-28T03:56:18.601419Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-29T02:37:10.395899Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-29T02:40:49.056101Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-30T03:54:54.274019Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-30T03:56:04.957642Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-08-31T02:42:30.838820Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for August LeetCoding Challenge 2025",
+      "date": "2025-08-31T02:43:13.258165Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire August LeetCoding Challenge 2025",
+      "date": "2025-08-31T02:43:13.297083Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-01T04:03:04.243789Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-09-01T04:03:04.244728Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-01T04:04:44.662439Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-09-01T04:04:53.065433Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-02T02:04:48.210835Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-02T02:12:05.262631Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-03T03:41:15.468573Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-03T03:54:14.135926Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-04T01:11:29.072212Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-04T01:12:59.167257Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-05T03:19:38.263860Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-05T03:24:54.868717Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-06T03:05:54.781090Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-06T03:15:01.130220Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-07T02:35:46.454315Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-07T02:38:00.055216Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-08T02:50:43.962939Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-08T02:54:09.065960Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-09-08T02:54:18.188649Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-09T02:18:08.576797Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-09T02:23:33.524504Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-10T01:31:25.321944Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-10T01:38:06.447577Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-11T04:01:10.513196Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-11T04:06:00.735775Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-12T04:43:23.010777Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-12T04:47:01.222372Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-13T02:44:50.321987Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-13T02:50:13.856575Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-14T03:04:20.036787Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-14T03:13:45.982293Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-15T02:01:09.867905Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-15T02:04:03.932142Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-09-15T02:04:17.833315Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-16T03:32:55.797371Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-16T03:39:35.906519Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-17T02:41:01.654297Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-17T02:48:48.002097Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-18T04:24:44.665061Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-18T04:37:23.670788Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-19T02:59:09.053977Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-19T03:05:41.300874Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-20T02:28:39.874671Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-20T04:11:36.075166Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-21T04:04:13.944020Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-21T04:31:26.315193Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-22T03:51:33.565876Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-09-22T03:51:54.777898Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-22T03:54:36.025512Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-23T03:11:17.623723Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-23T03:12:23.416798Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-24T04:14:36.496767Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-24T04:15:00.896878Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-25T02:31:03.578805Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-25T02:33:43.491862Z"
+    },
+    {
+      "score": 25,
+      "description": "Completed 25 challenges for the September LeetCoding Challenge 2025",
+      "date": "2025-09-25T02:33:43.537313Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-26T04:19:24.468156Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-26T04:20:18.348648Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-27T03:37:18.491553Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-27T03:39:54.930439Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-28T03:05:06.964249Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-28T03:06:21.658386Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-29T05:00:52.046439Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-29T05:05:11.262870Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-09-29T05:05:24.287187Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-09-30T03:15:02.814800Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for September LeetCoding Challenge 2025",
+      "date": "2025-09-30T03:18:26.410394Z"
+    },
+    {
+      "score": 50,
+      "description": "Completed the entire September LeetCoding Challenge 2025",
+      "date": "2025-09-30T03:18:26.456648Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-10-01T03:10:11.488717Z"
+    },
+    {
+      "score": 30,
+      "description": "30-day streak check-in reward",
+      "date": "2025-10-01T03:10:11.490050Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2025",
+      "date": "2025-10-01T03:11:52.738213Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-10-02T04:15:35.953100Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2025",
+      "date": "2025-10-02T04:21:24.983107Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-10-03T03:05:11.830791Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2025",
+      "date": "2025-10-03T03:07:03.233310Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-10-04T06:07:34.967256Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2025",
+      "date": "2025-10-04T06:08:43.554979Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-10-05T02:51:23.913749Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2025",
+      "date": "2025-10-05T02:52:32.696029Z"
+    },
+    {
+      "score": 1,
+      "description": "Completed a daily check-in mission",
+      "date": "2025-10-06T03:42:51.755850Z"
+    },
+    {
+      "score": 10,
+      "description": "Completed a daily challenge for October LeetCoding Challenge 2025",
+      "date": "2025-10-06T03:46:01.099074Z"
+    },
+    {
+      "score": 10,
+      "description": "Collected 10 LeetCoins from contest!",
+      "date": "2025-10-06T03:46:14.637460Z"
+    }
+  ]
+}

@@ -51,6 +51,7 @@ A beautiful Chrome extension that tracks, categorizes, and visualizes your LeetC
 | **Monthly Challenge** | Monthly challenge completion bonuses |
 | **Contribution** | Code contributions, reviews, and community activities |
 | **Survey** | Feedback surveys and questionnaires |
+| **Spent/Penalty** | Time travel tickets, redemptions, penalties, and negative points |
 | **Others** | Profile updates, streaks, referrals, and miscellaneous points |
 
 ##  Technical Details
